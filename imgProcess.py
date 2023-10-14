@@ -257,6 +257,7 @@ if __name__ == '__main__':
 #    path = './imgs/'+name+'.jpg'
     begin(path)
     img,gt = g['rraw'],g['sal']
+    test
     pass
 
     
